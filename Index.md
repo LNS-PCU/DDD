@@ -46,7 +46,7 @@
 # [관련 이미지]
 - 이미지  
 
-<img src="./img/1.png">
+
 <img src="./img/관련이미지 2.jpg">
 <img src="./img/관련이미지 3.jpg">
 
@@ -114,8 +114,13 @@
 
 # [개발된 게임 실행 모습]
 
-<img src="./img/11.png">
-<img src="./img/44.png">
-<img src="./img/22.png">
-<img src="./img/33.png">
+<img src="./img/1.png">
+<img src="./img/2.png">
+<img src="./img/3.png">
+<img src="./img/4.png">
+<img src="./img/5.png">
+<img src="./img/6.png">
+<img src="./img/7.png">
+<img src="./img/8.png">
+<img src="./img/9.png">
 
