@@ -45,14 +45,15 @@
 - 이미지  
 
 
-<img src="./img/관련이미지 2.jpg">
-<img src="./img/관련이미지 3.jpg">
+<img src="./img/그림1.png">
+
 
 <br><br>
 
 # [컨셉 & 컨셉 기반 작품묘사]
 
-<img src="./img/일러스트 2.jpg">
+<img src="./img/그림2.png">
+<img src="./img/그림3.png">
 
 
 <br><br>
