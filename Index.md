@@ -46,7 +46,7 @@
 # [관련 이미지]
 - 이미지  
 
-<img src="./img/관련이미지 1.jpg">
+<img src="./img/1.png">
 <img src="./img/관련이미지 2.jpg">
 <img src="./img/관련이미지 3.jpg">
 
